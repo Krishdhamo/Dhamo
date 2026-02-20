@@ -28,5 +28,4 @@ def longestCommonPrefix(self, strs):
                     return min_str[:i]
 
         return min_str
-
-
+# s = Solution()
